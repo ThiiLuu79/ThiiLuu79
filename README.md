@@ -1,6 +1,4 @@
 - 👋 Hi, I am The Minh Luong
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web developpement
 - 📫 How to reach me : the-minh.luong.1@ens.etsmtl.ca
 
 <!---
