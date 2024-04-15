@@ -1,5 +1,5 @@
 - 👋 Hi, I am The Minh Luong
-- 📫 How to reach me : the-minh.luong.1@ens.etsmtl.ca
+- 📫 How to reach me : theminh.luong9@gmail.com
 
 <!---
 ThiiLuu79/ThiiLuu79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
