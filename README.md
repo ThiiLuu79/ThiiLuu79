@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 📈 GitHub Stats
 ![The Minh Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiiLuu79&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiiLuu79&layout=compact&theme=radical)
 
 <!---
 ThiiLuu79/ThiiLuu79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
