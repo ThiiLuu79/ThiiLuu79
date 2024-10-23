@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## 📫 How to Reach Me
 
 - Email: [theminh.luong9@gmail.com](mailto:theminh.luong9@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/tmluong19/](https://www.linkedin.com/in/tmluong19/))
+- LinkedIn: [https://www.linkedin.com/in/tmluong19/](https://www.linkedin.com/in/tmluong19/)
 
 ## 🔧 Technologies & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
