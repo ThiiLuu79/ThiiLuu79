@@ -1,6 +1,7 @@
 # 👋 Hi, I'm The Minh Luong
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
+![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 📫 How to Reach Me
 
@@ -8,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - LinkedIn: [https://www.linkedin.com/in/tmluong19/](https://www.linkedin.com/in/tmluong19/))
 
 ## 🔧 Technologies & Tools
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
