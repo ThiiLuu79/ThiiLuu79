@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## 📈 GitHub Stats
-![The Minh Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiiLuu79&show_icons=true&theme=radical)
+![The Minh Luong's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ThiiLuu79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 <!---
 ThiiLuu79/ThiiLuu79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
