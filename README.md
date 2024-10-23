@@ -1,7 +1,7 @@
 # 👋 Hi, I'm The Minh Luong
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
-![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat on Computer" width="200">
 
 ## 📫 How to Reach Me
 
