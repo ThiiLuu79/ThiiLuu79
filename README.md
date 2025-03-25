@@ -32,6 +32,12 @@ Visit [CookingLab](https://github.com/CookingLab), my latest project where you c
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### DevOps
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
 ## 📈 GitHub Stats
 ![The Minh Luong's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ThiiLuu79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
