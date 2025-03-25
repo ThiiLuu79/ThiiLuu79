@@ -7,6 +7,9 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## 📫 How to Reach Me
 - LinkedIn: [https://www.linkedin.com/in/tmluong19/](https://www.linkedin.com/in/tmluong19/)
 
+## 🍳 CookingLab Organization
+Visit [CookingLab](https://github.com/CookingLab), my latest project where you can generate random recipes based on your preferences!
+
 ## 🔧 Technologies & Tools
 
 ### Frontend
