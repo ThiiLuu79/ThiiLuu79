@@ -41,8 +41,6 @@ Visit [CookingLab](https://github.com/CookingLab), my latest project where you c
 ## 📈 GitHub Stats
 ![The Minh Luong's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ThiiLuu79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ThiiLuu79?theme=dark&font=Montserrat&ext=heatmap)
 <!---
 ThiiLuu79/ThiiLuu79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
